@@ -354,3 +354,4 @@ python train.py --n_way=5 --k_shot=1 --q_query=1
 - [cbfinn/*maml*](https://github.com/cbfinn/maml)
 - [dragen1860/*MAML*-Pytorch](https://github.com/dragen1860/MAML-Pytorch)
 - [Runist](https://github.com/Runist)/[MAML-keras](https://github.com/Runist/MAML-keras)
+# maml-torch
